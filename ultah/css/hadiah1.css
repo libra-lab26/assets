@@ -1,0 +1,124 @@
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            animation: fade 1.5s ease-in-out;
+            padding: 20px;
+            margin: auto;
+        }
+
+        .mySlides {
+            display: none;
+            text-align: center;
+        }
+
+        .mySlides img {
+            margin: 0 auto;
+        }
+
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 40%;
+            transform: translateY(-50%);
+            width: auto;
+            padding: 16px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            z-index: 10; 
+        }
+
+        .prev {
+            left: 0; 
+            border-radius: 0 3px 3px 0; 
+        }
+
+        .next {
+            right: 0; 
+            border-radius: 3px 0 0 3px; 
+        }
+
+        .prev:hover, .next:hover {
+            background-color: rgba(0, 0, 0, 0.8); 
+        }
+
+        .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+
+        .dot-container {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .dot {
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        .active, .dot:hover {
+            background-color: #717171;
+        }
+
+        @keyframes fade {
+            from {opacity: 0.4;} 
+            to {opacity: 1;}
+        }
+
+        .centered-text {
+            text-align: center;
+            font-family: 'Dancing Script', cursive;
+            font-size: 20px;
+            color: #ff69b4;
+            margin-top: 20px;
+            max-width: 800px; 
+            padding: 0 50px;
+        }
+
+        marquee {
+            width: 100%;
+            text-align: center;
+        }
+
+        .typing-container {
+            text-align: center;
+            max-width: 800px; 
+            padding: 0 50px;
+        }
+
+        .typing-text {
+            display: inline-block;
+            font-family: 'Dancing Script', cursive;
+            font-size: 20px;
+        }

@@ -1,0 +1,43 @@
+  //    Crack by Libra ID
+  //    Follow for Sosmed : https://sociabuzz.com/libra_id
+  // 	Thanks to all
+
+╭────────── [ Succes Logged_In_User ] ──────────────╮
+│ [√] FullName : idoboy                                      │
+│ [√] UserName : iidoboy                                     │
+│ [√] Password : Idoboy28                                    │
+│ [√] Follower : 1962                                        │
+│ [√] Followed : 1622                                        │
+│ [√] FeedPost : 0                                           │
+│ [√] Saved_As : data/result/Sabtu-21-December-2024.txt      │
+│ ╰──────────────────────────────────────────╯
+
+╭────────── [ Succes Logged_In_User ] ──────────────╮
+│ [√] FullName : Regita Cahya Ramadhani                      │
+│ [√] UserName : regitacahyaramadhani                        │
+│ [√] Password : regita01                                    │
+│ [√] Follower : 549                                         │
+│ [√] Followed : 405                                         │
+│ [√] FeedPost : 2                                           │
+│ [√] Saved_As : data/result/Minggu-21-July-2024.txt         │
+│ ╰──────────────────────────────────────────╯
+
+╭────────── [ Succes Logged_In_User ] ──────────────╮
+│ [√] FullName : Muhammad Irfan Wijaya                       │
+│ [√] UserName : muha.mmadirfan89                            │
+│ [√] Password : irfan01                                     │
+│ [√] Follower : 335                                         │
+│ [√] Followed : 1049                                        │
+│ [√] FeedPost : 6                                           │
+│ [√] Saved_As : data/result/Minggu-21-July-2024.txt         │
+│ ╰──────────────────────────────────────────╯
+
+╭────────── [ Succes Logged_In_User ] ──────────────╮
+│ [√] FullName : Mala Pasaribu                               │
+│ [√] UserName : firmalanpasaribu                            │
+│ [√] Password : pasaribu01                                  │
+│ [√] Follower : 771                                         │
+│ [√] Followed : 641                                         │
+│ [√] FeedPost : 31                                          │
+│ [√] Saved_As : data/result/Sabtu-21-December-2024.txt      │
+│ ╰──────────────────────────────────────────╯
